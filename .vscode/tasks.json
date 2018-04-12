@@ -10,7 +10,7 @@
             "args": [
                 "-g", "helloword.cpp"
             ],
-            "group": {
+            "group": {                
                 "kind": "build",
                 "isDefault": true
             }
